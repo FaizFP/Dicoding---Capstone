@@ -79,9 +79,6 @@ Proyek ini dikembangkan menggunakan **Jupyter Notebook**.
     ```bash
     git clone [https://github.com/faizfp/dicoding---capstone.git](https://github.com/faizfp/dicoding---capstone.git)
     ```
-2.  **Install library yang dibutuhkan:**
-    ```bash
-    pip install pandas numpy matplotlib seaborn scikit-learn
-    ```
-3.  **Jalankan Notebook:**
+
+2.  **Jalankan Notebook:**
     Buka file `Capstone_SegmentationMarketing.ipynb` di Jupyter Notebook atau Google Colab untuk melihat analisis langkah demi langkah.
