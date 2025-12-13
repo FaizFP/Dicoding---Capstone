@@ -58,6 +58,21 @@ Analisis produk terlaris per segmen menunjukkan preferensi yang berbeda:
 
 ## 🛠️ Instalasi & Penggunaan
 
+## ⚙️ Petunjuk Setup Environment
+
+1. Buka terminal atau command prompt.
+2. Buat virtual environment (opsional tapi disarankan):
+   ```bash
+   python -m venv venv
+   ```
+3. Aktifkan virtual environment:
+   - Windows: `venv\Scripts\activate`
+   - Mac/Linux: `source venv/bin/activate`
+4. Install dependensi:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 Proyek ini dikembangkan menggunakan **Jupyter Notebook**.
 
 1.  **Clone repositori ini:**
