@@ -63,8 +63,8 @@ Proyek ini dikembangkan menggunakan **Jupyter Notebook**.
     ```bash
     git clone [https://github.com/faizfp/dicoding---capstone.git](https://github.com/faizfp/dicoding---capstone.git)
     ```
-2. **Jalankan Notebook:**
-    Lihat Ke Petunjuk Setup Environtment
+2. **Lihat ke Petunjuk Setup Environtment**
+   
 3.  **Jalankan Notebook:**
     Buka file `Capstone_SegmentationMarketing.ipynb` di Jupyter Notebook atau Google Colab untuk melihat analisis langkah demi langkah.
 ## ⚙️ Petunjuk Setup Environment
