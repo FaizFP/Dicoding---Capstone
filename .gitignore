@@ -1,0 +1,13 @@
+# Checkpoints Jupyter
+.ipynb_checkpoints/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment (jika ada)
+env/
+venv/
+
+# Data (Opsional, jika tidak ingin upload dataset)
+# *.csv
